@@ -156,7 +156,7 @@ a:hover {
   color: var(--muted);
 }
 
-/* Grid and cards (used on other pages later) */
+/* Grid and cards (uniform because used on other pages later) */
 .grid-3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
